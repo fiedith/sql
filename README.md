@@ -9,4 +9,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/fiedith/sql/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/fiedith/sql/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/fiedith/sql/tree/master/1827-invalid-tweets) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/fiedith/sql/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
