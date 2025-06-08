@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/fiedith/sql/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/fiedith/sql/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/fiedith/sql/tree/master/1827-invalid-tweets) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/fiedith/sql/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/fiedith/sql/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/fiedith/sql/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
